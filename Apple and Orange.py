@@ -2,6 +2,7 @@
 
 #  HackerRank Problem Solved using Python.
 
+
 #!/bin/python3
 
 import math
